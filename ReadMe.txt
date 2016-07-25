@@ -1,7 +1,7 @@
 This code is from Cappell et al., 2016, Cell 166, 167-180. June 30, 2016. 
 
 Running the scripts:
-Run Script_1 first. This will track cells and extract the fluoresence itensity for each channel imaged. If you are using a PC, use PC_Script_1, which is optimized for PC file paths.
+Run Script_1 first. This will track cells and extract the fluoresence itensity for each channel imaged. If you are using a PC, use PC_Script_1, which is optimized for PC file paths. If you are using a Mac, use Mac_script_1, which is optimized for Mac file paths.
 Run Script_2 second. This will merge the data from daughter cells with mother cells. 
 
 File Naming: 
